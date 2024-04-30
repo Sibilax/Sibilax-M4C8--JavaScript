@@ -1,6 +1,6 @@
 == M4C8 - Conceptos de JavaScript
 
-image::images/js.jpg[Img]
+image::Images/js.jpg[Img]
 
 === 1. ¿Qué tipo de bucles hay en JS?
 
@@ -1109,7 +1109,7 @@ contraseñas, etc). Gracias a esto, el usuario puede enfocarse en la
 tarea principal sin distraerse con detalles técnicos complicados y tener
 una mejor experiencia de usuario.
 
-* Herencia: image:images/dogshow.jpg[Img]
+* Herencia: image:Images/dogshow.jpg[Img]
 
 En Poo la herencia es un principio fundamental. Este permite crear
 nuevas clases en función de clases ya existentes, lo cual permite la
